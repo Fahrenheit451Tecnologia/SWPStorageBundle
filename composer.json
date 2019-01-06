@@ -23,7 +23,7 @@
         "symfony/framework-bundle": "^4.0",
         "symfony/doctrine-bridge": "^4.0",
         "doctrine/orm": "^2.5",
-        "doctrine/doctrine-bundle": ">=1.6.7 <1.7.0"
+        "doctrine/doctrine-bundle": "^1.6"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.5",
